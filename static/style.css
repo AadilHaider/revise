@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+li {
+    color: white;
+}
+.submit {
+    margin-top: 1rem;
+    padding: 8px 20rem;
+}
+svg:hover {
+    color: rgb(45, 45, 45);
+}
+.img-top {
+    height: 32px;
+    padding: 0;
+    margin: 0;
+    margin-top: 2px;
+}
